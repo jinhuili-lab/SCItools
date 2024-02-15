@@ -14,4 +14,14 @@ A desktop application for scientific analysis on multiple platforms. A modern to
   - bedtools
   - bwa
   - diamond
-  - 
+## Plan
+* 2024.2
+  - Finish a basic interface for this tool.
+  - Add at least two functions in the tool.
+* 2024.3
+  - optimize
+  - RNA-seq analysis step.
+  - thread managerment.
+* 2024.4
+  - Basic visualize.
+  - Hotplot
